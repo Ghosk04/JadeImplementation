@@ -41,10 +41,10 @@ This project aims to automate and optimize purchasing and inventory management i
 Any improvement is welcome! To contribute :
 1. Fork the repository.
 2. Create a branch for your feature:
-   ``sh
-   git checkout -b feature-new-feature
+   ```sh
+   git checkout -b feature-new-feature   ```
    ```
-3. Make a pull request after validation.
+4. Make a pull request after validation.
 
 ## License
 This project is licensed under the MIT License.
