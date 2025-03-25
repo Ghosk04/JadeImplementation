@@ -2,8 +2,8 @@
 
 ## Project description
 This project aims to automate and optimize purchasing and inventory management in pharmacies. It is based on two main roles:
-- Purchasing Agent**: Responsible for ordering from suppliers.
-- Pharmacy Agent**: Manages stock and ensures drug availability.
+- **Purchasing Agent**: Responsible for ordering from suppliers.
+- **Pharmacy Agent**: Manages stock and ensures drug availability.
 
 ## Main functionalities
 ### 1. purchasing management (purchasing agent)
@@ -27,10 +27,14 @@ This project aims to automate and optimize purchasing and inventory management i
    ```
 2. Import the project into an IDE (Eclipse, IntelliJ, NetBeans). I used VS code and I created the project manually. 
 3. Run the application in the root of the project using the command :
-   
-   java -cp "bin:lib/jade.jar" MainContainer  ( To start the main container and the RMA )
-
-   java -cp "bin:lib/jade.jar" Container ( To start the agents )
+   ```sh
+    java -cp "bin:lib/jade.jar" MainContainer
+   ```
+     To start the main container and the RMA  and after :
+   ```sh
+    java -cp "bin:lib/jade.jar" Container
+   ```
+     To start the container of the agents 
 
 
 ## Contribution
