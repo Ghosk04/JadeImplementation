@@ -6,7 +6,7 @@ This project aims to automate and optimize purchasing and inventory management i
 - **Pharmacy Agent**: Manages stock and ensures drug availability.
 
 ## Main functionalities
-### 1. purchasing management (purchasing agent)
+### 1. Purchasing management (purchasing agent)
 - Create and track orders with suppliers.
 - Validation of stock receipts.
 - Monitor suppliers and manage delivery times.
